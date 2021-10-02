@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 950px;
+    background-image: url(./Nkarner/bgc\ \(1\).png);
+}
+.ha{
+    display: flex;
+    justify-content: center;
+}
+.ha img{
+    width: 150px;
+    height: 150;
+}
+.ha a{
+    color: white;
+    padding: 40px;
+}
+.header { 
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+width: 730px;
+height: 49px;
+left: 350px;
+top: 400px;
+}
+.header button {
+    font-size: 20px;
+    border: double;
+    font-family:Serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 49px;}
+
+.ha1 img{
+    margin-top: 45%;
+    padding: 50px;
+}
+.ha2{
+    text-align: center;
+    margin-top: 65px;
+}
+.ha2 h2{
+    font-style: italic;
+size: 25px;
+line-height: 29.4px;
+font-size: medium;
+}
+.ha2 p{font-weight: 700;
+    size: 30px;
+    line-height: 40,86px;
+}
+.ha3{
+display: flex;
+justify-items: center;
+margin-top: 65px;
+}
+.ha3 a{
+    margin: 40px;
+    border: double;
+    border-radius: 15px;
+    color: black;
+    padding: 20px;
+}
+.ha4{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 65px;
+}
+.ha4 h1{
+    text-align: center;
+    font-family: Gilroy;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.1em;
+}
+.ha5{
+    background-image: url(./Nkarner/Rectangle\ 6\ \(1\).png);
+    color: white;
+    width: 100%;
+    height: 350px;
+    /* display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; */
+    text-align: center;
+    margin-top: 65px;
+}
+.ha5 button{margin-top: 70px;
+    padding: 20px;
+}
+.ha5 p{
+    margin-top: 65px;
+}
+.ha6 h1{
+    display: flex;
+    justify-content: center;
+    font-family: Gilroy;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 140%;
+}
+.ha6 h2{
+    display: flex;
+    justify-content: center;
+    font-family: Noto Serif;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 41px;
+}
+.ha71
+{
+    width: 350px;
+    height: 250px;
+    border: solid;
+    background-image: url(./image/lkkkk4\ \(1\).png);
+
+}
+.ha72{
+    
+    width: 350px;
+    height: 250px;
+    border: solid;
+    background-image: url(./image/lkkkk4\ \(2\).png);
+}
+.ha73{
+    
+    width: 350px;
+    height: 250px;
+    border: solid;
+    background-image: url(./image/lkkkk4\ \(3\).png);
+}
+.ha7{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 65px;
+}
+.ha7 h1{
+margin-top: 130px;
+color: white;}
+.ha8
+{
+    background-image: url(./Nkarner/Rectangle\ 6\ \(1\).png);
+    width: 100%;
+    height: 250px;
+    margin-top: 65px;
+}
+.ha81{
+    text-align: center;
+    color: white;
+}
+.ha83{
+    width:240px;
+    height: 60px;
+    border: double white;
+    display: flex;
+    margin: 40px;
+}
+.ha822{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+
+}
+.ha83 button{
+    background-color: black;
+    color: white;
+    
+}
+.ha82 ul{
+    color: white;
+}
+.ha82{
+    margin: 40px;
+}
+
+.ha91{
+    width: 200px;
+    height: 200px;
+   
+    
+}
+.ha91 h1{
+    font-size: 20px;
+}
+.ha91 a{
+    color: black;
+}
+.ha92{
+     width: 200px;
+    height: 200px;
+    
+
+}
+.ha92 h1{
+    font-size: 20px;
+}
+.ha922 {
+    margin-left: 15px;
+}
+.ha93
+{width: 200px;
+    height: 200px;
+   
+    font-size: 20px;
+
+}
+.ha94{width: 200px;
+    height: 200px;
+  
+    font-size: 15px
+
+}
+.ha9 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 65px;
+}
+
+
+
